@@ -21,8 +21,8 @@ on:
 
 permissions:
   contents: write
-  # packages: write
-  # issues: write
+  packages: write
+  issues: write
 
 env:
   REPO_URL: https://github.com/lede-project/source
